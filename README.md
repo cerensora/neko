@@ -1,3 +1,3 @@
 # baslik
 
-abc abc abc 
+abc abc abc bca bca bca
